@@ -1,0 +1,32 @@
+Hi! 👋  
+This is SGKSS NGO, a website I built for a non-profit organization during my internship.  
+
+🌍 Live Site: https://sgkssngo.org/
+
+About the Project
+The website was made to share information about the NGO’s social activities, projects, and donation programs.  
+The goal was to make it simple, informative, and trustworthy so people can easily connect or contribute.  
+
+Tech I Used
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- AI(for frontend Structure creation)
+- PHP + MySQL  
+- Hosted with cPanel  
+
+Features
+- Pages for mission, vision, and activities  
+- Donation and volunteer forms  
+- Event gallery  
+- Mobile responsive layout  
+- Contact page with email integration  
+
+My Role
+I handled everything from UI design to coding .  
+It was a meaningful project because it combined tech with social good ❤️  
+
+How to View
+You can clone the project and just open `index.html` to explore it locally.  
+
+ Contact
+If you want to know more about this project or connect for collaborations, reach out at **your-email@example.com**
